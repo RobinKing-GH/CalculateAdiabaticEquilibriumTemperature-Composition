@@ -1,2 +1,3 @@
 # CalculateAdiabaticEquilibriumTemperature-Composition
 In python language, the adiabatic equilibrium temperature and composition of hydrocarbon components are calculated by the principle of minimum Gibbs free energy.
+The equilibrium temperature of adiabatic process is calculated interatively by dichotomy. Then the minimum Gibbs free energy principle is used to calculte its equilibrium composition. The current suppoeted components inculde: H2, CH4, CO, CO2, O2, H2O, N2, C2H2, C2H4, C2H6, C3H8, C6H6, C10H8, soot and O2. The thermodynamic parameters of related components are expressed by NASA7 format polynomial.
